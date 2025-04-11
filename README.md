@@ -27,7 +27,8 @@ Requisição:
     "email": "cleber@cleberleao.com",
     "password": "123456"
     
-Esperado: HTTP 201 Created br/
+Esperado: HTTP 201 Created
+
 Resultado: As requisições apresentam erro 403 como mostra a imagem
 
 ![image](https://github.com/user-attachments/assets/225d86f9-bb4b-40a3-b99e-2b437a724b42)
