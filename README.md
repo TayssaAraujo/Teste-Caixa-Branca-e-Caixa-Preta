@@ -2,7 +2,7 @@
 *rodando código com erro*
 
 # primeiros passos 
-Após análise do código, foi identificada uma divergência entre as configurações de banco de dados no código-fonte e as credenciais reais do banco.
+Após análise do código, foi identificada uma divergência entre as configurações de banco de dados no código-fonte e os dados reais do banco.
 
 # Alterações realizadas
 
