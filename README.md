@@ -19,7 +19,7 @@ Foi testada e validada a conexão ao banco cleberleao_oficina utilizando o DBeav
 
 ![image](https://github.com/user-attachments/assets/63e00518-1e88-4cf3-99e0-71488a3716c8) 
 
-# Testes de Caixa Preta (funcionais via API podman)
+# Testes de Caixa Preta (API podman)
 *Cadastro de usuário*
 Requisição:
 
