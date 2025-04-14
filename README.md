@@ -40,5 +40,5 @@ Mesmo com o backend rodando corretamente e banco acessível, todas as requisiç�
 
 # conclusão
 
-A lógica e o fuincionamento do código foi validada com sucesso por meio de testes de caixa branca. Porém, os testes de caixa preta revelaram problemas relacionados ao cadastro dos usuarios, impedindo que a funcionalidade seja usada.
+A lógica e o funcionamento do código foi validada com sucesso por meio de testes de caixa branca. Porém, os testes de caixa preta revelaram problemas relacionados ao cadastro dos usuarios, impedindo que a funcionalidade seja usada.
 
