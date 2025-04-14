@@ -22,15 +22,20 @@ Foi testada e validada a conexão ao banco cleberleao_oficina utilizando o DBeav
 
 # Testes de Caixa Preta (API podman)
 *Cadastro de usuário*
+
 Requisição:
 
     "nome": "Cleber Leão",
     "email": "cleber@cleberleao.com",
     "password": "123456"
+
+    "nome": "tayssa_aj",
+    "email": "tayssa.araujo.com",
+    "password": "12345"
     
 Esperado: HTTP 201 Created
 
-Resultado: As requisições apresentam erro 403 como mostra a imagem
+Resultado: Foram feitas requisições com diferentes dados para atestar e identificar se o erro estava nos dados inseridos, mesmo com diferentes combinações de entrada, a aplicação responde com HTTP 403 como mostra a imagem
 
 ![image](https://github.com/user-attachments/assets/225d86f9-bb4b-40a3-b99e-2b437a724b42)
 
