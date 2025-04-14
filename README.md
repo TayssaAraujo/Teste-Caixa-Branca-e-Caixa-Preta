@@ -2,7 +2,8 @@
 *rodando código com erro*
 
 # primeiros passos 
-Após análise do código, foi identificada uma divergência entre as configurações de banco de dados no código-fonte e os dados reais do banco.
+A
+Durante a execução inicial do projeto, foi identificado que a aplicação não conseguia se conectar ao banco de dados. Após análise do código, foi identificada uma divergência entre as configurações de banco de dados no código-fonte e os dados reais do banco.
 
 # Alterações realizadas
 
@@ -37,4 +38,7 @@ Resultado: As requisições apresentam erro 403 como mostra a imagem
 
 Mesmo com o backend rodando corretamente e banco acessível, todas as requisições retornam HTTP 403, indicando falha de autorização.
 
+# conclusão
+
+A lógica e o fuincionamento do código foi validada com sucesso por meio de testes de caixa branca. Porém, os testes de caixa preta revelaram problemas relacionados ao cadastro dos usuarios, impedindo que a funcionalidade seja usada.
 
